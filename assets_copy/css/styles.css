@@ -798,3 +798,8 @@ footer.entry-meta .meta-in {
     max-width: 1080px;
   }
 }
+
+.tagline > a > .top_icon {
+  padding: 10px;
+  color: white;
+}
